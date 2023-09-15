@@ -1,0 +1,11 @@
+fr\jason\buildbattle\listeners\PlayerEventListener$1.class
+fr\jason\buildbattle\managers\PlayerDataManager.class
+fr\jason\buildbattle\Main.class
+fr\jason\buildbattle\managers\PlayerData.class
+fr\jason\buildbattle\BState.class
+fr\jason\buildbattle\listeners\TeamGuiListener.class
+fr\jason\buildbattle\listeners\PlayerEventListener.class
+fr\jason\buildbattle\managers\BTeamManager.class
+fr\jason\buildbattle\tasks\AutoStart.class
+fr\jason\buildbattle\BTeam.class
+fr\jason\buildbattle\tasks\GameCycle.class

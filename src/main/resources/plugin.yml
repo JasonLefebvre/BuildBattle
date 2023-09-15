@@ -1,0 +1,6 @@
+name: BuildBattle
+version: '${project.version}'
+main: fr.jason.buildbattle.Main
+api-version: '1.19'
+authors: [Jason]
+description: plugin event build battle
